@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "deck_id": "as3uulexsm65",
+    "cards": [
+        {
+            "code": "AS",
+            "image": "https://deckofcardsapi.com/static/img/AS.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/AS.svg",
+                "png": "https://deckofcardsapi.com/static/img/AS.png"
+            },
+            "value": "ACE",
+            "suit": "SPADES"
+        },
+    ],
+    "remaining": 51
+},
+        {
+         "success": true,
+         "deck_id": "v3zh7540bpcj",
+         "remaining": 52,
+         "shuffled": false
+        },
+}
