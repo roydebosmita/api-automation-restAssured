@@ -1,0 +1,27 @@
+Status code is 200
+Data is {"success": true, "deck_id": "9ggj5n51oijp", "remaining": 54, "shuffled": false}
+Response time 200
+Response is successful and has published the resource in the server 301
+Data is {"success": true, "deck_id": "hs9q6ehv6qig", "cards": [{"code": "2S", "image": "https://deckofcardsapi.com/static/img/2S.png", "images": {"svg": "https://deckofcardsapi.com/static/img/2S.svg", "png": "https://deckofcardsapi.com/static/img/2S.png"}, "value": "2", "suit": "SPADES"}], "remaining": 50}
+Response time 200
+Data is {"success": true, "deck_id": "w1o9rmwy9ub0", "cards": [{"code": "3S", "image": "https://deckofcardsapi.com/static/img/3S.png", "images": {"svg": "https://deckofcardsapi.com/static/img/3S.svg", "png": "https://deckofcardsapi.com/static/img/3S.png"}, "value": "3", "suit": "SPADES"}, {"code": "4S", "image": "https://deckofcardsapi.com/static/img/4S.png", "images": {"svg": "https://deckofcardsapi.com/static/img/4S.svg", "png": "https://deckofcardsapi.com/static/img/4S.png"}, "value": "4", "suit": "SPADES"}], "remaining": 50}
+Response time 200
+Data is {"success": true, "deck_id": "j27oeg4sij2b", "remaining": 52, "shuffled": false}
+Response time 113
+PASSED: testAddedJokersUsingGETMethod
+PASSED: testAddedJokersUsingPOSTMethod
+PASSED: testDrawingOneCard
+PASSED: testDrawingTwoCards
+PASSED: testResponseBody
+
+===============================================
+    Default test
+    Tests run: 5, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 5, Passes: 5, Failures: 0, Skips: 0
+===============================================
+
